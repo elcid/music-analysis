@@ -1,342 +1,501 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1058" height="626" viewBox="0 0 1058 626" class="score" role="img">
-<line x1="80.0" y1="32.0" x2="80.0" y2="266.0" stroke="#111" stroke-width="1.8"/>
-<line x1="80.0" y1="32.0" x2="87.0" y2="32.0" stroke="#111" stroke-width="1.8"/>
-<line x1="80.0" y1="266.0" x2="87.0" y2="266.0" stroke="#111" stroke-width="1.8"/>
-<line x1="92.0" y1="32.0" x2="1034.0" y2="32.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="41.0" x2="1034.0" y2="41.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="50.0" x2="1034.0" y2="50.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="59.0" x2="1034.0" y2="59.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="68.0" x2="1034.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="68.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄞</text>
-<text x="72.00" y="56.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino I</text>
-<text x="122.00" y="32.00" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<text x="143.00" y="45.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
-<text x="143.00" y="63.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
-<line x1="153.0" y1="32.0" x2="153.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="32.0" x2="328.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="32.0" x2="503.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="32.0" x2="678.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="32.0" x2="853.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="32.0" x2="1028.0" y2="68.0" stroke="#111" stroke-width="0.9"/>
-<text x="157.00" y="23.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">1</text>
-<text x="332.00" y="23.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">2</text>
-<text x="507.00" y="23.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">3</text>
-<text x="682.00" y="23.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">4</text>
-<text x="857.00" y="23.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">5</text>
-<text x="851.70" y="59.00" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="27.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 167.00 27.50)"/>
-<ellipse cx="167.00" cy="27.50" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 167.00 27.50)"/>
-<ellipse cx="414.50" cy="59.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 414.50 59.00)"/>
-<ellipse cx="414.50" cy="59.00" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 414.50 59.00)"/>
-<ellipse cx="867.00" cy="59.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 867.00 59.00)"/>
-<circle cx="875.5" cy="59.0" r="1.4" fill="#111"/>
-<line x1="872.6" y1="59.0" x2="872.6" y2="28.4" stroke="#111" stroke-width="1.5"/>
-<line x1="92.0" y1="98.0" x2="1034.0" y2="98.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="107.0" x2="1034.0" y2="107.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="116.0" x2="1034.0" y2="116.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="125.0" x2="1034.0" y2="125.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="134.0" x2="1034.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="134.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄞</text>
-<text x="72.00" y="122.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino II</text>
-<text x="122.00" y="98.00" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<text x="143.00" y="111.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
-<text x="143.00" y="129.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
-<line x1="153.0" y1="98.0" x2="153.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="98.0" x2="328.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="98.0" x2="503.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="98.0" x2="678.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="98.0" x2="853.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="98.0" x2="1028.0" y2="134.0" stroke="#111" stroke-width="0.9"/>
-<line x1="158.4" y1="143.0" x2="175.6" y2="143.0" stroke="#111" stroke-width="0.9"/>
-<line x1="158.4" y1="152.0" x2="175.6" y2="152.0" stroke="#111" stroke-width="0.9"/>
-<line x1="405.9" y1="143.0" x2="423.1" y2="143.0" stroke="#111" stroke-width="0.9"/>
-<line x1="405.9" y1="152.0" x2="423.1" y2="152.0" stroke="#111" stroke-width="0.9"/>
-<line x1="858.5" y1="143.0" x2="875.5" y2="143.0" stroke="#111" stroke-width="0.9"/>
-<line x1="858.5" y1="152.0" x2="875.5" y2="152.0" stroke="#111" stroke-width="0.9"/>
-<text x="851.70" y="156.50" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="156.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 167.00 156.50)"/>
-<ellipse cx="167.00" cy="125.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 167.00 125.00)"/>
-<ellipse cx="167.00" cy="125.00" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 167.00 125.00)"/>
-<ellipse cx="414.50" cy="156.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 414.50 156.50)"/>
-<ellipse cx="414.50" cy="156.50" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 414.50 156.50)"/>
-<ellipse cx="867.00" cy="156.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 867.00 156.50)"/>
-<circle cx="875.5" cy="152.0" r="1.4" fill="#111"/>
-<line x1="172.6" y1="156.5" x2="172.6" y2="125.9" stroke="#111" stroke-width="1.5"/>
-<path d="M 172.6 125.9 q 8.1 2.0 0 7.2 q -1.3 5.0 0 -6.8 Z" fill="#111"/>
-<path d="M 172.6 132.7 q 8.1 2.0 0 7.2 q -1.3 5.0 0 -6.8 Z" fill="#111"/>
-<line x1="872.6" y1="156.5" x2="872.6" y2="125.9" stroke="#111" stroke-width="1.5"/>
-<line x1="92.0" y1="164.0" x2="1034.0" y2="164.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="173.0" x2="1034.0" y2="173.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="182.0" x2="1034.0" y2="182.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="191.0" x2="1034.0" y2="191.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="200.0" x2="1034.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="200.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄡</text>
-<text x="72.00" y="188.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Viola</text>
-<text x="122.00" y="168.50" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<text x="143.00" y="177.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
-<text x="143.00" y="195.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
-<line x1="153.0" y1="164.0" x2="153.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="164.0" x2="328.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="164.0" x2="503.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="164.0" x2="678.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="164.0" x2="853.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="164.0" x2="1028.0" y2="200.0" stroke="#111" stroke-width="0.9"/>
-<text x="851.70" y="195.50" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="195.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 167.00 195.50)"/>
-<ellipse cx="167.00" cy="164.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 167.00 164.00)"/>
-<ellipse cx="167.00" cy="164.00" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 167.00 164.00)"/>
-<ellipse cx="414.50" cy="195.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 414.50 195.50)"/>
-<ellipse cx="414.50" cy="195.50" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 414.50 195.50)"/>
-<ellipse cx="867.00" cy="195.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 867.00 195.50)"/>
-<circle cx="875.5" cy="191.0" r="1.4" fill="#111"/>
-<line x1="172.6" y1="195.5" x2="172.6" y2="164.9" stroke="#111" stroke-width="1.5"/>
-<path d="M 172.6 164.9 q 8.1 2.0 0 7.2 q -1.3 5.0 0 -6.8 Z" fill="#111"/>
-<path d="M 172.6 171.7 q 8.1 2.0 0 7.2 q -1.3 5.0 0 -6.8 Z" fill="#111"/>
-<line x1="872.6" y1="195.5" x2="872.6" y2="164.9" stroke="#111" stroke-width="1.5"/>
-<line x1="92.0" y1="230.0" x2="1034.0" y2="230.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="239.0" x2="1034.0" y2="239.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="248.0" x2="1034.0" y2="248.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="257.0" x2="1034.0" y2="257.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="266.0" x2="1034.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="266.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄢</text>
-<text x="72.00" y="254.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violoncello</text>
-<text x="122.00" y="239.00" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<text x="143.00" y="243.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
-<text x="143.00" y="261.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
-<line x1="153.0" y1="230.0" x2="153.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="230.0" x2="328.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="230.0" x2="503.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="230.0" x2="678.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="230.0" x2="853.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="230.0" x2="1028.0" y2="266.0" stroke="#111" stroke-width="0.9"/>
-<text x="851.70" y="266.00" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="266.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 167.00 266.00)"/>
-<ellipse cx="167.00" cy="234.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 167.00 234.50)"/>
-<ellipse cx="167.00" cy="234.50" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 167.00 234.50)"/>
-<ellipse cx="414.50" cy="266.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.3" transform="rotate(-12 414.50 266.00)"/>
-<ellipse cx="414.50" cy="266.00" rx="7.20" ry="5.31" fill="none" stroke="#111" stroke-width="1.0" transform="rotate(-12 414.50 266.00)"/>
-<ellipse cx="867.00" cy="266.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 867.00 266.00)"/>
-<circle cx="875.5" cy="266.0" r="1.4" fill="#111"/>
-<line x1="172.6" y1="266.0" x2="172.6" y2="235.4" stroke="#111" stroke-width="1.5"/>
-<path d="M 172.6 235.4 q 8.1 2.0 0 7.2 q -1.3 5.0 0 -6.8 Z" fill="#111"/>
-<path d="M 172.6 242.2 q 8.1 2.0 0 7.2 q -1.3 5.0 0 -6.8 Z" fill="#111"/>
-<line x1="872.6" y1="266.0" x2="872.6" y2="235.4" stroke="#111" stroke-width="1.5"/>
-<path d="M 161.0 22.0 L 161.0 17.0 L 1911.0 17.0 L 1911.0 22.0" fill="none" stroke="#b3261e" stroke-width="1.4"/>
-<text x="187.00" y="12.00" font-family="Noto Serif, serif" font-size="12.50" font-style="italic" font-weight="normal" text-anchor="start" fill="#b3261e">S1 in octaves</text>
-<line x1="80.0" y1="322.0" x2="80.0" y2="556.0" stroke="#111" stroke-width="1.8"/>
-<line x1="80.0" y1="322.0" x2="87.0" y2="322.0" stroke="#111" stroke-width="1.8"/>
-<line x1="80.0" y1="556.0" x2="87.0" y2="556.0" stroke="#111" stroke-width="1.8"/>
-<line x1="92.0" y1="322.0" x2="1034.0" y2="322.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="331.0" x2="1034.0" y2="331.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="340.0" x2="1034.0" y2="340.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="349.0" x2="1034.0" y2="349.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="358.0" x2="1034.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="358.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄞</text>
-<text x="72.00" y="346.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino I</text>
-<text x="122.00" y="322.00" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<line x1="153.0" y1="322.0" x2="153.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="322.0" x2="328.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="322.0" x2="503.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="322.0" x2="678.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="322.0" x2="853.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1023.0" y1="322.0" x2="1023.0" y2="358.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="322.0" x2="1028.0" y2="358.0" stroke="#111" stroke-width="2.6"/>
-<text x="157.00" y="313.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">6</text>
-<text x="332.00" y="313.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">7</text>
-<text x="507.00" y="313.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">8</text>
-<text x="682.00" y="313.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">9</text>
-<text x="857.00" y="313.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">10</text>
-<line x1="858.5" y1="313.0" x2="875.5" y2="313.0" stroke="#111" stroke-width="0.9"/>
-<line x1="882.6" y1="313.0" x2="899.7" y2="313.0" stroke="#111" stroke-width="0.9"/>
-<text x="151.70" y="321.10" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♮</text>
-<text x="501.70" y="349.00" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="322.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 167.00 322.00)"/>
-<ellipse cx="342.00" cy="326.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 342.00 326.50)"/>
-<ellipse cx="517.00" cy="349.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 517.00 349.00)"/>
-<ellipse cx="692.00" cy="344.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 692.00 344.50)"/>
-<ellipse cx="764.50" cy="322.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 764.50 322.00)"/>
-<ellipse cx="867.00" cy="317.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 317.50)"/>
-<ellipse cx="867.00" cy="313.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 313.00)"/>
-<ellipse cx="891.17" cy="317.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 317.50)"/>
-<ellipse cx="891.17" cy="313.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 313.00)"/>
-<ellipse cx="915.33" cy="317.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 317.50)"/>
-<ellipse cx="915.33" cy="322.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 322.00)"/>
-<ellipse cx="939.50" cy="317.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 939.50 317.50)"/>
-<circle cx="175.6" cy="322.0" r="1.4" fill="#111"/>
-<circle cx="350.6" cy="322.0" r="1.4" fill="#111"/>
-<circle cx="525.5" cy="349.0" r="1.4" fill="#111"/>
-<circle cx="700.5" cy="340.0" r="1.4" fill="#111"/>
-<circle cx="773.0" cy="322.0" r="1.4" fill="#111"/>
-<line x1="161.4" y1="322.0" x2="161.4" y2="352.6" stroke="#111" stroke-width="1.5"/>
-<line x1="336.4" y1="326.5" x2="336.4" y2="357.1" stroke="#111" stroke-width="1.5"/>
-<line x1="522.6" y1="349.0" x2="522.6" y2="318.4" stroke="#111" stroke-width="1.5"/>
-<line x1="697.6" y1="344.5" x2="697.6" y2="313.9" stroke="#111" stroke-width="1.5"/>
-<line x1="758.9" y1="322.0" x2="758.9" y2="352.6" stroke="#111" stroke-width="1.5"/>
-<line x1="861.4" y1="317.5" x2="861.4" y2="348.1" stroke="#111" stroke-width="1.5"/>
-<line x1="861.4" y1="313.0" x2="861.4" y2="348.1" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="317.5" x2="885.6" y2="343.6" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="313.0" x2="885.6" y2="343.6" stroke="#111" stroke-width="1.5"/>
-<polygon points="858.7,348.1 888.3,343.6 888.3,347.7 858.7,352.2" fill="#111"/>
-<polygon points="858.7,354.6 888.3,350.1 888.3,354.2 858.7,358.7" fill="#111"/>
-<line x1="909.8" y1="317.5" x2="909.8" y2="348.1" stroke="#111" stroke-width="1.5"/>
-<line x1="909.8" y1="322.0" x2="909.8" y2="348.1" stroke="#111" stroke-width="1.5"/>
-<line x1="933.9" y1="317.5" x2="933.9" y2="348.1" stroke="#111" stroke-width="1.5"/>
-<polygon points="907.1,348.1 936.6,348.1 936.6,352.2 907.1,352.2" fill="#111"/>
-<polygon points="907.1,354.6 936.6,354.6 936.6,358.7 907.1,358.7" fill="#111"/>
-<line x1="92.0" y1="388.0" x2="1034.0" y2="388.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="397.0" x2="1034.0" y2="397.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="406.0" x2="1034.0" y2="406.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="415.0" x2="1034.0" y2="415.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="424.0" x2="1034.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="424.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄞</text>
-<text x="72.00" y="412.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino II</text>
-<text x="122.00" y="388.00" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<line x1="153.0" y1="388.0" x2="153.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="388.0" x2="328.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="388.0" x2="503.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="388.0" x2="678.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="388.0" x2="853.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1023.0" y1="388.0" x2="1023.0" y2="424.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="388.0" x2="1028.0" y2="424.0" stroke="#111" stroke-width="2.6"/>
-<line x1="508.4" y1="433.0" x2="525.5" y2="433.0" stroke="#111" stroke-width="0.9"/>
-<line x1="508.4" y1="442.0" x2="525.5" y2="442.0" stroke="#111" stroke-width="0.9"/>
-<line x1="683.5" y1="433.0" x2="700.5" y2="433.0" stroke="#111" stroke-width="0.9"/>
-<line x1="683.5" y1="442.0" x2="700.5" y2="442.0" stroke="#111" stroke-width="0.9"/>
-<text x="151.70" y="418.60" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♮</text>
-<text x="501.70" y="446.50" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="419.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 167.00 419.50)"/>
-<ellipse cx="342.00" cy="424.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 342.00 424.00)"/>
-<ellipse cx="517.00" cy="446.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 517.00 446.50)"/>
-<ellipse cx="692.00" cy="442.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 692.00 442.00)"/>
-<ellipse cx="764.50" cy="419.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 764.50 419.50)"/>
-<ellipse cx="867.00" cy="415.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 415.00)"/>
-<ellipse cx="867.00" cy="410.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 410.50)"/>
-<ellipse cx="891.17" cy="415.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 415.00)"/>
-<ellipse cx="891.17" cy="410.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 410.50)"/>
-<ellipse cx="891.17" cy="415.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 415.00)"/>
-<ellipse cx="915.33" cy="419.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 419.50)"/>
-<ellipse cx="915.33" cy="415.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 415.00)"/>
-<circle cx="175.6" cy="415.0" r="1.4" fill="#111"/>
-<circle cx="350.6" cy="424.0" r="1.4" fill="#111"/>
-<circle cx="525.5" cy="442.0" r="1.4" fill="#111"/>
-<circle cx="700.5" cy="442.0" r="1.4" fill="#111"/>
-<circle cx="773.0" cy="415.0" r="1.4" fill="#111"/>
-<line x1="172.6" y1="419.5" x2="172.6" y2="388.9" stroke="#111" stroke-width="1.5"/>
-<line x1="347.6" y1="424.0" x2="347.6" y2="393.4" stroke="#111" stroke-width="1.5"/>
-<line x1="522.6" y1="446.5" x2="522.6" y2="415.9" stroke="#111" stroke-width="1.5"/>
-<line x1="697.6" y1="442.0" x2="697.6" y2="411.4" stroke="#111" stroke-width="1.5"/>
-<line x1="770.1" y1="419.5" x2="770.1" y2="388.9" stroke="#111" stroke-width="1.5"/>
-<line x1="872.6" y1="415.0" x2="872.6" y2="384.4" stroke="#111" stroke-width="1.5"/>
-<line x1="872.6" y1="410.5" x2="872.6" y2="384.4" stroke="#111" stroke-width="1.5"/>
-<line x1="896.7" y1="415.0" x2="896.7" y2="384.4" stroke="#111" stroke-width="1.5"/>
-<line x1="896.7" y1="410.5" x2="896.7" y2="384.4" stroke="#111" stroke-width="1.5"/>
-<line x1="896.7" y1="415.0" x2="896.7" y2="384.4" stroke="#111" stroke-width="1.5"/>
-<polygon points="869.9,384.4 899.4,384.4 899.4,388.5 869.9,388.5" fill="#111"/>
-<polygon points="869.9,377.9 899.4,377.9 899.4,382.1 869.9,382.1" fill="#111"/>
-<line x1="920.9" y1="419.5" x2="920.9" y2="388.9" stroke="#111" stroke-width="1.5"/>
-<line x1="920.9" y1="415.0" x2="920.9" y2="388.9" stroke="#111" stroke-width="1.5"/>
-<polygon points="918.2,388.9 923.6,388.9 923.6,393.0 918.2,393.0" fill="#111"/>
-<polygon points="918.2,382.4 923.6,382.4 923.6,386.6 918.2,386.6" fill="#111"/>
-<line x1="92.0" y1="454.0" x2="1034.0" y2="454.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="463.0" x2="1034.0" y2="463.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="472.0" x2="1034.0" y2="472.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="481.0" x2="1034.0" y2="481.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="490.0" x2="1034.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="490.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄡</text>
-<text x="72.00" y="478.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Viola</text>
-<text x="122.00" y="458.50" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<line x1="153.0" y1="454.0" x2="153.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="454.0" x2="328.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="454.0" x2="503.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="454.0" x2="678.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="454.0" x2="853.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1023.0" y1="454.0" x2="1023.0" y2="490.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="454.0" x2="1028.0" y2="490.0" stroke="#111" stroke-width="2.6"/>
-<text x="151.70" y="457.60" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♮</text>
-<text x="501.70" y="485.50" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="458.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 167.00 458.50)"/>
-<ellipse cx="342.00" cy="463.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 342.00 463.00)"/>
-<ellipse cx="517.00" cy="485.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 517.00 485.50)"/>
-<ellipse cx="692.00" cy="481.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 692.00 481.00)"/>
-<ellipse cx="764.50" cy="458.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 764.50 458.50)"/>
-<ellipse cx="867.00" cy="454.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 454.00)"/>
-<ellipse cx="867.00" cy="449.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 449.50)"/>
-<ellipse cx="891.17" cy="454.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 454.00)"/>
-<ellipse cx="891.17" cy="449.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 449.50)"/>
-<ellipse cx="891.17" cy="454.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 454.00)"/>
-<ellipse cx="915.33" cy="458.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 458.50)"/>
-<ellipse cx="915.33" cy="454.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 454.00)"/>
-<circle cx="175.6" cy="454.0" r="1.4" fill="#111"/>
-<circle cx="350.6" cy="463.0" r="1.4" fill="#111"/>
-<circle cx="525.5" cy="481.0" r="1.4" fill="#111"/>
-<circle cx="700.5" cy="481.0" r="1.4" fill="#111"/>
-<circle cx="773.0" cy="454.0" r="1.4" fill="#111"/>
-<line x1="161.4" y1="458.5" x2="161.4" y2="489.1" stroke="#111" stroke-width="1.5"/>
-<line x1="336.4" y1="463.0" x2="336.4" y2="493.6" stroke="#111" stroke-width="1.5"/>
-<line x1="522.6" y1="485.5" x2="522.6" y2="454.9" stroke="#111" stroke-width="1.5"/>
-<line x1="697.6" y1="481.0" x2="697.6" y2="450.4" stroke="#111" stroke-width="1.5"/>
-<line x1="758.9" y1="458.5" x2="758.9" y2="489.1" stroke="#111" stroke-width="1.5"/>
-<line x1="861.4" y1="454.0" x2="861.4" y2="484.6" stroke="#111" stroke-width="1.5"/>
-<line x1="861.4" y1="449.5" x2="861.4" y2="484.6" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="454.0" x2="885.6" y2="484.6" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="449.5" x2="885.6" y2="484.6" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="454.0" x2="885.6" y2="484.6" stroke="#111" stroke-width="1.5"/>
-<polygon points="858.7,484.6 888.3,484.6 888.3,488.7 858.7,488.7" fill="#111"/>
-<polygon points="858.7,491.1 888.3,491.1 888.3,495.2 858.7,495.2" fill="#111"/>
-<line x1="909.8" y1="458.5" x2="909.8" y2="489.1" stroke="#111" stroke-width="1.5"/>
-<line x1="909.8" y1="454.0" x2="909.8" y2="489.1" stroke="#111" stroke-width="1.5"/>
-<polygon points="907.1,489.1 912.5,489.1 912.5,493.2 907.1,493.2" fill="#111"/>
-<polygon points="907.1,495.6 912.5,495.6 912.5,499.7 907.1,499.7" fill="#111"/>
-<line x1="92.0" y1="520.0" x2="1034.0" y2="520.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="529.0" x2="1034.0" y2="529.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="538.0" x2="1034.0" y2="538.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="547.0" x2="1034.0" y2="547.0" stroke="#111" stroke-width="0.9"/>
-<line x1="92.0" y1="556.0" x2="1034.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<text x="95.00" y="556.00" font-family="Noto Music" font-size="36.00" text-anchor="start">𝄢</text>
-<text x="72.00" y="544.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violoncello</text>
-<text x="122.00" y="529.00" font-family="Noto Music" font-size="35.28" text-anchor="start">♯</text>
-<line x1="153.0" y1="520.0" x2="153.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<line x1="328.0" y1="520.0" x2="328.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<line x1="503.0" y1="520.0" x2="503.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<line x1="678.0" y1="520.0" x2="678.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<line x1="853.0" y1="520.0" x2="853.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1023.0" y1="520.0" x2="1023.0" y2="556.0" stroke="#111" stroke-width="0.9"/>
-<line x1="1028.0" y1="520.0" x2="1028.0" y2="556.0" stroke="#111" stroke-width="2.6"/>
-<text x="151.70" y="528.10" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♮</text>
-<text x="501.70" y="556.00" font-family="Noto Serif, DejaVu Serif, serif" font-size="35.10" text-anchor="start">♯</text>
-<ellipse cx="167.00" cy="529.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 167.00 529.00)"/>
-<ellipse cx="342.00" cy="533.50" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 342.00 533.50)"/>
-<ellipse cx="517.00" cy="556.00" rx="5.67" ry="3.78" fill="none" stroke="#111" stroke-width="2.4" transform="rotate(-22 517.00 556.00)"/>
-<ellipse cx="692.00" cy="551.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 692.00 551.50)"/>
-<ellipse cx="764.50" cy="529.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 764.50 529.00)"/>
-<ellipse cx="867.00" cy="524.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 524.50)"/>
-<ellipse cx="867.00" cy="520.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 867.00 520.00)"/>
-<ellipse cx="891.17" cy="524.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 524.50)"/>
-<ellipse cx="891.17" cy="520.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 891.17 520.00)"/>
-<ellipse cx="915.33" cy="524.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 524.50)"/>
-<ellipse cx="915.33" cy="529.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 529.00)"/>
-<ellipse cx="915.33" cy="524.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-22 915.33 524.50)"/>
-<circle cx="175.6" cy="529.0" r="1.4" fill="#111"/>
-<circle cx="350.6" cy="529.0" r="1.4" fill="#111"/>
-<circle cx="525.5" cy="556.0" r="1.4" fill="#111"/>
-<circle cx="700.5" cy="547.0" r="1.4" fill="#111"/>
-<circle cx="773.0" cy="529.0" r="1.4" fill="#111"/>
-<line x1="161.4" y1="529.0" x2="161.4" y2="559.6" stroke="#111" stroke-width="1.5"/>
-<line x1="336.4" y1="533.5" x2="336.4" y2="564.1" stroke="#111" stroke-width="1.5"/>
-<line x1="522.6" y1="556.0" x2="522.6" y2="525.4" stroke="#111" stroke-width="1.5"/>
-<line x1="697.6" y1="551.5" x2="697.6" y2="520.9" stroke="#111" stroke-width="1.5"/>
-<line x1="758.9" y1="529.0" x2="758.9" y2="559.6" stroke="#111" stroke-width="1.5"/>
-<line x1="861.4" y1="524.5" x2="861.4" y2="555.1" stroke="#111" stroke-width="1.5"/>
-<line x1="861.4" y1="520.0" x2="861.4" y2="555.1" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="524.5" x2="885.6" y2="550.6" stroke="#111" stroke-width="1.5"/>
-<line x1="885.6" y1="520.0" x2="885.6" y2="550.6" stroke="#111" stroke-width="1.5"/>
-<polygon points="858.7,555.1 888.3,550.6 888.3,554.7 858.7,559.2" fill="#111"/>
-<polygon points="858.7,561.6 888.3,557.1 888.3,561.2 858.7,565.7" fill="#111"/>
-<line x1="909.8" y1="524.5" x2="909.8" y2="555.1" stroke="#111" stroke-width="1.5"/>
-<line x1="909.8" y1="529.0" x2="909.8" y2="555.1" stroke="#111" stroke-width="1.5"/>
-<line x1="909.8" y1="524.5" x2="909.8" y2="555.1" stroke="#111" stroke-width="1.5"/>
-<polygon points="907.1,555.1 912.5,555.1 912.5,559.2 907.1,559.2" fill="#111"/>
-<polygon points="907.1,561.6 912.5,561.6 912.5,565.7 907.1,565.7" fill="#111"/>
-<path d="M -714.0 312.0 L -714.0 307.0 L 1036.0 307.0 L 1036.0 312.0" fill="none" stroke="#b3261e" stroke-width="1.4"/>
-<text x="-688.00" y="302.00" font-family="Noto Serif, serif" font-size="12.50" font-style="italic" font-weight="normal" text-anchor="start" fill="#b3261e">S1 in octaves</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1066" height="668" viewBox="0 0 1066 668" class="score" role="img">
+<line x1="83.00" y1="70.00" x2="83.00" y2="328.00" stroke="#111" stroke-width="1.60"/>
+<path d="M 83.0 70.0 q 7 0 7 8" fill="none" stroke="#111" stroke-width="1.6"/>
+<path d="M 83.0 328.0 q 7 0 7 -8" fill="none" stroke="#111" stroke-width="1.6"/>
+<line x1="96.00" y1="70.00" x2="1040.00" y2="70.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="79.00" x2="1040.00" y2="79.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="88.00" x2="1040.00" y2="88.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="97.00" x2="1040.00" y2="97.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="106.00" x2="1040.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="106.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄞</text>
+<text x="74.00" y="94.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino I</text>
+<line x1="129.02" y1="62.62" x2="129.02" y2="76.48" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="63.52" x2="132.98" y2="77.38" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="68.74" x2="134.96" y2="66.94" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="73.06" x2="134.96" y2="71.26" stroke="#111" stroke-width="3.06"/>
+
+<text x="150.60" y="83.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
+<text x="150.60" y="101.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
+<line x1="159.00" y1="70.00" x2="159.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="70.00" x2="334.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="70.00" x2="509.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="70.00" x2="684.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="70.00" x2="859.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="70.00" x2="1034.00" y2="106.00" stroke="#111" stroke-width="0.90"/>
+<text x="163.00" y="61.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">1</text>
+<text x="338.00" y="61.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">2</text>
+<text x="513.00" y="61.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">3</text>
+<text x="688.00" y="61.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">4</text>
+<text x="863.00" y="61.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">5</text>
+<line x1="861.07" y1="89.62" x2="861.07" y2="103.48" stroke="#111" stroke-width="1.44"/>
+<line x1="865.03" y1="90.52" x2="865.03" y2="104.38" stroke="#111" stroke-width="1.44"/>
+<line x1="859.09" y1="95.74" x2="867.01" y2="93.94" stroke="#111" stroke-width="3.06"/>
+<line x1="859.09" y1="100.06" x2="867.01" y2="98.26" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="65.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 65.50)"/>
+<circle cx="186.45" cy="61.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="65.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 65.50)"/>
+<circle cx="361.45" cy="61.00" r="1.53" fill="#111"/>
+<ellipse cx="421.50" cy="97.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 421.50 97.00)"/>
+<circle cx="430.95" cy="97.00" r="1.53" fill="#111"/>
+<ellipse cx="527.00" cy="97.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 97.00)"/>
+<circle cx="536.45" cy="97.00" r="1.53" fill="#111"/>
+<ellipse cx="702.00" cy="97.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 702.00 97.00)"/>
+<circle cx="711.45" cy="97.00" r="1.53" fill="#111"/>
+<ellipse cx="877.00" cy="97.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 877.00 97.00)"/>
+<circle cx="886.45" cy="97.00" r="1.53" fill="#111"/>
+<line x1="182.40" y1="65.50" x2="182.40" y2="34.00" stroke="#111" stroke-width="1.25"/>
+<line x1="357.40" y1="65.50" x2="357.40" y2="34.00" stroke="#111" stroke-width="1.25"/>
+<line x1="416.10" y1="97.00" x2="416.10" y2="128.50" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="97.00" x2="521.60" y2="128.50" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="97.00" x2="696.60" y2="128.50" stroke="#111" stroke-width="1.25"/>
+<line x1="871.60" y1="97.00" x2="871.60" y2="128.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 183.75 70.45 C 232.20 62.35 296.80 62.35 345.25 70.45" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 428.25 92.05 C 455.85 100.15 492.65 100.15 520.25 92.05" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 533.75 92.05 C 582.20 100.15 646.80 100.15 695.25 92.05" fill="none" stroke="#111" stroke-width="1.15"/>
+<line x1="96.00" y1="144.00" x2="1040.00" y2="144.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="153.00" x2="1040.00" y2="153.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="162.00" x2="1040.00" y2="162.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="171.00" x2="1040.00" y2="171.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="180.00" x2="1040.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="180.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄞</text>
+<text x="74.00" y="168.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino II</text>
+<line x1="129.02" y1="136.62" x2="129.02" y2="150.48" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="137.52" x2="132.98" y2="151.38" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="142.74" x2="134.96" y2="140.94" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="147.06" x2="134.96" y2="145.26" stroke="#111" stroke-width="3.06"/>
+
+<text x="150.60" y="157.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
+<text x="150.60" y="175.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
+<line x1="159.00" y1="144.00" x2="159.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="144.00" x2="334.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="144.00" x2="509.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="144.00" x2="684.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="144.00" x2="859.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="144.00" x2="1034.00" y2="180.00" stroke="#111" stroke-width="0.90"/>
+<line x1="861.07" y1="195.12" x2="861.07" y2="208.98" stroke="#111" stroke-width="1.44"/>
+<line x1="865.03" y1="196.02" x2="865.03" y2="209.88" stroke="#111" stroke-width="1.44"/>
+<line x1="859.09" y1="201.24" x2="867.01" y2="199.44" stroke="#111" stroke-width="3.06"/>
+<line x1="859.09" y1="205.56" x2="867.01" y2="203.76" stroke="#111" stroke-width="3.06"/>
+
+<line x1="168.45" y1="189.00" x2="185.55" y2="189.00" stroke="#111" stroke-width="0.90"/>
+<line x1="168.45" y1="198.00" x2="185.55" y2="198.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="177.00" cy="171.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 171.00)"/>
+<ellipse cx="177.00" cy="202.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 202.50)"/>
+<circle cx="186.45" cy="171.00" r="1.53" fill="#111"/>
+<circle cx="186.45" cy="198.00" r="1.53" fill="#111"/>
+<line x1="343.45" y1="189.00" x2="360.55" y2="189.00" stroke="#111" stroke-width="0.90"/>
+<line x1="343.45" y1="198.00" x2="360.55" y2="198.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="352.00" cy="171.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 171.00)"/>
+<ellipse cx="352.00" cy="202.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 202.50)"/>
+<circle cx="361.45" cy="171.00" r="1.53" fill="#111"/>
+<circle cx="361.45" cy="198.00" r="1.53" fill="#111"/>
+<line x1="412.95" y1="189.00" x2="430.05" y2="189.00" stroke="#111" stroke-width="0.90"/>
+<line x1="412.95" y1="198.00" x2="430.05" y2="198.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="421.50" cy="202.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 421.50 202.50)"/>
+<circle cx="430.95" cy="198.00" r="1.53" fill="#111"/>
+<line x1="518.45" y1="189.00" x2="535.55" y2="189.00" stroke="#111" stroke-width="0.90"/>
+<line x1="518.45" y1="198.00" x2="535.55" y2="198.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="527.00" cy="202.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 202.50)"/>
+<circle cx="536.45" cy="198.00" r="1.53" fill="#111"/>
+<line x1="693.45" y1="189.00" x2="710.55" y2="189.00" stroke="#111" stroke-width="0.90"/>
+<line x1="693.45" y1="198.00" x2="710.55" y2="198.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="702.00" cy="202.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 702.00 202.50)"/>
+<circle cx="711.45" cy="198.00" r="1.53" fill="#111"/>
+<line x1="868.45" y1="189.00" x2="885.55" y2="189.00" stroke="#111" stroke-width="0.90"/>
+<line x1="868.45" y1="198.00" x2="885.55" y2="198.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="877.00" cy="202.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 877.00 202.50)"/>
+<circle cx="886.45" cy="198.00" r="1.53" fill="#111"/>
+<line x1="171.60" y1="202.50" x2="171.60" y2="234.00" stroke="#111" stroke-width="1.25"/>
+<line x1="346.60" y1="202.50" x2="346.60" y2="234.00" stroke="#111" stroke-width="1.25"/>
+<line x1="416.10" y1="202.50" x2="416.10" y2="234.00" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="202.50" x2="521.60" y2="234.00" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="202.50" x2="696.60" y2="234.00" stroke="#111" stroke-width="1.25"/>
+<line x1="871.60" y1="202.50" x2="871.60" y2="234.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 183.75 197.55 C 232.20 205.65 296.80 205.65 345.25 197.55" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 183.75 166.05 C 232.20 174.15 296.80 174.15 345.25 166.05" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 428.25 197.55 C 455.85 205.65 492.65 205.65 520.25 197.55" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 533.75 197.55 C 582.20 205.65 646.80 205.65 695.25 197.55" fill="none" stroke="#111" stroke-width="1.15"/>
+<line x1="96.00" y1="218.00" x2="1040.00" y2="218.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="227.00" x2="1040.00" y2="227.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="236.00" x2="1040.00" y2="236.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="245.00" x2="1040.00" y2="245.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="254.00" x2="1040.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="254.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄡</text>
+<text x="74.00" y="242.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Viola</text>
+<line x1="129.02" y1="215.12" x2="129.02" y2="228.98" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="216.02" x2="132.98" y2="229.88" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="221.24" x2="134.96" y2="219.44" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="225.56" x2="134.96" y2="223.76" stroke="#111" stroke-width="3.06"/>
+
+<text x="150.60" y="231.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
+<text x="150.60" y="249.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
+<line x1="159.00" y1="218.00" x2="159.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="218.00" x2="334.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="218.00" x2="509.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="218.00" x2="684.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="218.00" x2="859.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="218.00" x2="1034.00" y2="254.00" stroke="#111" stroke-width="0.90"/>
+<line x1="861.07" y1="242.12" x2="861.07" y2="255.98" stroke="#111" stroke-width="1.44"/>
+<line x1="865.03" y1="243.02" x2="865.03" y2="256.88" stroke="#111" stroke-width="1.44"/>
+<line x1="859.09" y1="248.24" x2="867.01" y2="246.44" stroke="#111" stroke-width="3.06"/>
+<line x1="859.09" y1="252.56" x2="867.01" y2="250.76" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="218.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 218.00)"/>
+<ellipse cx="177.00" cy="249.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 249.50)"/>
+<circle cx="186.45" cy="218.00" r="1.53" fill="#111"/>
+<circle cx="186.45" cy="245.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="218.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 218.00)"/>
+<ellipse cx="352.00" cy="249.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 249.50)"/>
+<circle cx="361.45" cy="218.00" r="1.53" fill="#111"/>
+<circle cx="361.45" cy="245.00" r="1.53" fill="#111"/>
+<ellipse cx="421.50" cy="249.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 421.50 249.50)"/>
+<circle cx="430.95" cy="245.00" r="1.53" fill="#111"/>
+<ellipse cx="527.00" cy="249.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 249.50)"/>
+<circle cx="536.45" cy="245.00" r="1.53" fill="#111"/>
+<ellipse cx="702.00" cy="249.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 702.00 249.50)"/>
+<circle cx="711.45" cy="245.00" r="1.53" fill="#111"/>
+<ellipse cx="877.00" cy="249.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 877.00 249.50)"/>
+<circle cx="886.45" cy="245.00" r="1.53" fill="#111"/>
+<line x1="182.40" y1="218.00" x2="182.40" y2="186.50" stroke="#111" stroke-width="1.25"/>
+<line x1="357.40" y1="218.00" x2="357.40" y2="186.50" stroke="#111" stroke-width="1.25"/>
+<line x1="416.10" y1="249.50" x2="416.10" y2="281.00" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="249.50" x2="521.60" y2="281.00" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="249.50" x2="696.60" y2="281.00" stroke="#111" stroke-width="1.25"/>
+<line x1="871.60" y1="249.50" x2="871.60" y2="281.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 183.75 254.45 C 232.20 246.35 296.80 246.35 345.25 254.45" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 183.75 222.95 C 232.20 214.85 296.80 214.85 345.25 222.95" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 428.25 244.55 C 455.85 252.65 492.65 252.65 520.25 244.55" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 533.75 244.55 C 582.20 252.65 646.80 252.65 695.25 244.55" fill="none" stroke="#111" stroke-width="1.15"/>
+<line x1="96.00" y1="292.00" x2="1040.00" y2="292.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="301.00" x2="1040.00" y2="301.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="310.00" x2="1040.00" y2="310.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="319.00" x2="1040.00" y2="319.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="328.00" x2="1040.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="328.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄢</text>
+<text x="74.00" y="316.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violoncello</text>
+<line x1="129.02" y1="293.62" x2="129.02" y2="307.48" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="294.52" x2="132.98" y2="308.38" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="299.74" x2="134.96" y2="297.94" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="304.06" x2="134.96" y2="302.26" stroke="#111" stroke-width="3.06"/>
+
+<text x="150.60" y="305.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">6</text>
+<text x="150.60" y="323.95" font-family="Noto Serif, serif" font-size="18.90" font-style="normal" font-weight="bold" text-anchor="start" fill="#111">8</text>
+<line x1="159.00" y1="292.00" x2="159.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="292.00" x2="334.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="292.00" x2="509.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="292.00" x2="684.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="292.00" x2="859.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="292.00" x2="1034.00" y2="328.00" stroke="#111" stroke-width="0.90"/>
+<line x1="861.07" y1="320.62" x2="861.07" y2="334.48" stroke="#111" stroke-width="1.44"/>
+<line x1="865.03" y1="321.52" x2="865.03" y2="335.38" stroke="#111" stroke-width="1.44"/>
+<line x1="859.09" y1="326.74" x2="867.01" y2="324.94" stroke="#111" stroke-width="3.06"/>
+<line x1="859.09" y1="331.06" x2="867.01" y2="329.26" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="296.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 296.50)"/>
+<ellipse cx="177.00" cy="328.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 328.00)"/>
+<circle cx="186.45" cy="292.00" r="1.53" fill="#111"/>
+<circle cx="186.45" cy="328.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="296.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 296.50)"/>
+<ellipse cx="352.00" cy="328.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 352.00 328.00)"/>
+<circle cx="361.45" cy="292.00" r="1.53" fill="#111"/>
+<circle cx="361.45" cy="328.00" r="1.53" fill="#111"/>
+<ellipse cx="421.50" cy="328.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 421.50 328.00)"/>
+<circle cx="430.95" cy="328.00" r="1.53" fill="#111"/>
+<ellipse cx="527.00" cy="328.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 328.00)"/>
+<circle cx="536.45" cy="328.00" r="1.53" fill="#111"/>
+<ellipse cx="702.00" cy="328.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 702.00 328.00)"/>
+<circle cx="711.45" cy="328.00" r="1.53" fill="#111"/>
+<ellipse cx="877.00" cy="328.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 877.00 328.00)"/>
+<circle cx="886.45" cy="328.00" r="1.53" fill="#111"/>
+<line x1="171.60" y1="328.00" x2="171.60" y2="359.50" stroke="#111" stroke-width="1.25"/>
+<line x1="346.60" y1="328.00" x2="346.60" y2="359.50" stroke="#111" stroke-width="1.25"/>
+<line x1="416.10" y1="328.00" x2="416.10" y2="359.50" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="328.00" x2="521.60" y2="359.50" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="328.00" x2="696.60" y2="359.50" stroke="#111" stroke-width="1.25"/>
+<line x1="871.60" y1="328.00" x2="871.60" y2="359.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 183.75 323.05 C 232.20 331.15 296.80 331.15 345.25 323.05" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 183.75 291.55 C 232.20 299.65 296.80 299.65 345.25 291.55" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 428.25 323.05 C 455.85 331.15 492.65 331.15 520.25 323.05" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 533.75 323.05 C 582.20 331.15 646.80 331.15 695.25 323.05" fill="none" stroke="#111" stroke-width="1.15"/>
+<path d="M 177.0 60.0 L 177.0 55.0 L 1016.0 55.0 L 1016.0 60.0" fill="none" stroke="#b3261e" stroke-width="1.4"/>
+<rect x="201.0" y="39.0" width="91.8" height="14" fill="#fff" fill-opacity="0.82"/>
+<text x="203.00" y="50.00" font-family="Noto Serif, serif" font-size="12.50" font-style="italic" font-weight="normal" text-anchor="start" fill="#b3261e">S1 in octaves</text>
+<line x1="83.00" y1="362.00" x2="83.00" y2="620.00" stroke="#111" stroke-width="1.60"/>
+<path d="M 83.0 362.0 q 7 0 7 8" fill="none" stroke="#111" stroke-width="1.6"/>
+<path d="M 83.0 620.0 q 7 0 7 -8" fill="none" stroke="#111" stroke-width="1.6"/>
+<line x1="96.00" y1="362.00" x2="1040.00" y2="362.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="371.00" x2="1040.00" y2="371.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="380.00" x2="1040.00" y2="380.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="389.00" x2="1040.00" y2="389.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="398.00" x2="1040.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="398.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄞</text>
+<text x="74.00" y="386.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino I</text>
+<line x1="129.02" y1="354.62" x2="129.02" y2="368.48" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="355.52" x2="132.98" y2="369.38" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="360.74" x2="134.96" y2="358.94" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="365.06" x2="134.96" y2="363.26" stroke="#111" stroke-width="3.06"/>
+
+<line x1="159.00" y1="362.00" x2="159.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="362.00" x2="334.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="362.00" x2="509.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="362.00" x2="684.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="362.00" x2="859.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1029.00" y1="362.00" x2="1029.00" y2="398.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="362.00" x2="1034.00" y2="398.00" stroke="#111" stroke-width="2.60"/>
+<text x="163.00" y="353.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">6</text>
+<text x="338.00" y="353.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">7</text>
+<text x="513.00" y="353.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">8</text>
+<text x="688.00" y="353.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">9</text>
+<text x="863.00" y="353.00" font-family="Noto Serif, serif" font-size="11.00" font-style="normal" font-weight="normal" text-anchor="start" fill="#555">10</text>
+<line x1="161.16" y1="356.42" x2="161.16" y2="367.94" stroke="#111" stroke-width="1.53"/>
+<line x1="164.94" y1="356.06" x2="164.94" y2="367.58" stroke="#111" stroke-width="1.53"/>
+<line x1="161.16" y1="360.92" x2="164.94" y2="360.92" stroke="#111" stroke-width="2.88"/>
+<line x1="161.16" y1="364.16" x2="164.94" y2="364.16" stroke="#111" stroke-width="2.88"/>
+
+<line x1="511.07" y1="381.62" x2="511.07" y2="395.48" stroke="#111" stroke-width="1.44"/>
+<line x1="515.03" y1="382.52" x2="515.03" y2="396.38" stroke="#111" stroke-width="1.44"/>
+<line x1="509.09" y1="387.74" x2="517.01" y2="385.94" stroke="#111" stroke-width="3.06"/>
+<line x1="509.09" y1="392.06" x2="517.01" y2="390.26" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="362.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 362.00)"/>
+<circle cx="186.45" cy="362.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="366.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 352.00 366.50)"/>
+<circle cx="361.45" cy="362.00" r="1.53" fill="#111"/>
+<ellipse cx="527.00" cy="389.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 389.00)"/>
+<circle cx="536.45" cy="389.00" r="1.53" fill="#111"/>
+<ellipse cx="702.00" cy="384.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 702.00 384.50)"/>
+<circle cx="711.45" cy="380.00" r="1.53" fill="#111"/>
+<ellipse cx="771.50" cy="362.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 771.50 362.00)"/>
+<circle cx="780.95" cy="362.00" r="1.53" fill="#111"/>
+<line x1="868.45" y1="353.00" x2="885.55" y2="353.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="877.00" cy="353.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 877.00 353.00)"/>
+<ellipse cx="884.38" cy="357.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 884.38 357.50)"/>
+<line x1="900.17" y1="353.00" x2="917.27" y2="353.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="908.72" cy="353.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 908.72 353.00)"/>
+<ellipse cx="916.10" cy="357.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 916.10 357.50)"/>
+<ellipse cx="940.44" cy="357.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 940.44 357.50)"/>
+<ellipse cx="947.82" cy="362.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 947.82 362.00)"/>
+<ellipse cx="972.16" cy="357.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 972.16 357.50)"/>
+<text x="892.86" y="384.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="924.58" y="384.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="956.30" y="384.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="979.46" y="384.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄽</text>
+<text x="1008.69" y="384.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<line x1="182.40" y1="362.00" x2="182.40" y2="330.50" stroke="#111" stroke-width="1.25"/>
+<line x1="357.40" y1="366.50" x2="357.40" y2="335.00" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="389.00" x2="521.60" y2="420.50" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="384.50" x2="696.60" y2="416.00" stroke="#111" stroke-width="1.25"/>
+<line x1="776.90" y1="362.00" x2="776.90" y2="330.50" stroke="#111" stroke-width="1.25"/>
+<line x1="882.40" y1="353.00" x2="882.40" y2="321.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 882.40 321.50 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 882.40 315.02 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="914.12" y1="353.00" x2="914.12" y2="321.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 914.12 321.50 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 914.12 315.02 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="945.84" y1="357.50" x2="945.84" y2="326.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 945.84 326.00 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 945.84 319.52 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="977.56" y1="357.50" x2="977.56" y2="326.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 977.56 326.00 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 977.56 319.52 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="96.00" y1="436.00" x2="1040.00" y2="436.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="445.00" x2="1040.00" y2="445.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="454.00" x2="1040.00" y2="454.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="463.00" x2="1040.00" y2="463.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="472.00" x2="1040.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="472.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄞</text>
+<text x="74.00" y="460.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violino II</text>
+<line x1="129.02" y1="428.62" x2="129.02" y2="442.48" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="429.52" x2="132.98" y2="443.38" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="434.74" x2="134.96" y2="432.94" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="439.06" x2="134.96" y2="437.26" stroke="#111" stroke-width="3.06"/>
+
+<line x1="159.00" y1="436.00" x2="159.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="436.00" x2="334.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="436.00" x2="509.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="436.00" x2="684.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="436.00" x2="859.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1029.00" y1="436.00" x2="1029.00" y2="472.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="436.00" x2="1034.00" y2="472.00" stroke="#111" stroke-width="2.60"/>
+<line x1="161.16" y1="461.92" x2="161.16" y2="473.44" stroke="#111" stroke-width="1.53"/>
+<line x1="164.94" y1="461.56" x2="164.94" y2="473.08" stroke="#111" stroke-width="1.53"/>
+<line x1="161.16" y1="466.42" x2="164.94" y2="466.42" stroke="#111" stroke-width="2.88"/>
+<line x1="161.16" y1="469.66" x2="164.94" y2="469.66" stroke="#111" stroke-width="2.88"/>
+
+<line x1="511.07" y1="487.12" x2="511.07" y2="500.98" stroke="#111" stroke-width="1.44"/>
+<line x1="515.03" y1="488.02" x2="515.03" y2="501.88" stroke="#111" stroke-width="1.44"/>
+<line x1="509.09" y1="493.24" x2="517.01" y2="491.44" stroke="#111" stroke-width="3.06"/>
+<line x1="509.09" y1="497.56" x2="517.01" y2="495.76" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="467.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 467.50)"/>
+<circle cx="186.45" cy="463.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="472.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 352.00 472.00)"/>
+<circle cx="361.45" cy="472.00" r="1.53" fill="#111"/>
+<line x1="518.45" y1="481.00" x2="535.55" y2="481.00" stroke="#111" stroke-width="0.90"/>
+<line x1="518.45" y1="490.00" x2="535.55" y2="490.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="527.00" cy="494.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 494.50)"/>
+<circle cx="536.45" cy="490.00" r="1.53" fill="#111"/>
+<line x1="693.45" y1="481.00" x2="710.55" y2="481.00" stroke="#111" stroke-width="0.90"/>
+<line x1="693.45" y1="490.00" x2="710.55" y2="490.00" stroke="#111" stroke-width="0.90"/>
+<ellipse cx="702.00" cy="490.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 702.00 490.00)"/>
+<circle cx="711.45" cy="490.00" r="1.53" fill="#111"/>
+<ellipse cx="771.50" cy="467.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 771.50 467.50)"/>
+<circle cx="780.95" cy="463.00" r="1.53" fill="#111"/>
+<ellipse cx="877.00" cy="458.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 877.00 458.50)"/>
+<ellipse cx="869.62" cy="463.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 869.62 463.00)"/>
+<ellipse cx="908.72" cy="458.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 908.72 458.50)"/>
+<ellipse cx="901.34" cy="463.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 901.34 463.00)"/>
+<ellipse cx="940.44" cy="463.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 940.44 463.00)"/>
+<ellipse cx="933.06" cy="467.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 933.06 467.50)"/>
+<text x="892.86" y="458.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="924.58" y="458.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="956.30" y="458.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄽</text>
+<circle cx="963.05" cy="453.10" r="1.53" fill="#111"/>
+<text x="1008.69" y="458.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<line x1="171.60" y1="467.50" x2="171.60" y2="499.00" stroke="#111" stroke-width="1.25"/>
+<line x1="346.60" y1="472.00" x2="346.60" y2="503.50" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="494.50" x2="521.60" y2="526.00" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="490.00" x2="696.60" y2="521.50" stroke="#111" stroke-width="1.25"/>
+<line x1="766.10" y1="467.50" x2="766.10" y2="499.00" stroke="#111" stroke-width="1.25"/>
+<line x1="871.60" y1="463.00" x2="871.60" y2="494.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 871.60 494.50 q 7.65 -1.62 0 -6.48 q -1.80 4.95 0 6.48 Z" fill="#111"/>
+<path d="M 871.60 500.98 q 7.65 -1.62 0 -6.48 q -1.80 4.95 0 6.48 Z" fill="#111"/>
+<line x1="903.32" y1="463.00" x2="903.32" y2="494.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 903.32 494.50 q 7.65 -1.62 0 -6.48 q -1.80 4.95 0 6.48 Z" fill="#111"/>
+<path d="M 903.32 500.98 q 7.65 -1.62 0 -6.48 q -1.80 4.95 0 6.48 Z" fill="#111"/>
+<line x1="935.04" y1="467.50" x2="935.04" y2="499.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 935.04 499.00 q 7.65 -1.62 0 -6.48 q -1.80 4.95 0 6.48 Z" fill="#111"/>
+<path d="M 935.04 505.48 q 7.65 -1.62 0 -6.48 q -1.80 4.95 0 6.48 Z" fill="#111"/>
+<line x1="96.00" y1="510.00" x2="1040.00" y2="510.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="519.00" x2="1040.00" y2="519.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="528.00" x2="1040.00" y2="528.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="537.00" x2="1040.00" y2="537.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="546.00" x2="1040.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="546.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄡</text>
+<text x="74.00" y="534.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Viola</text>
+<line x1="129.02" y1="507.12" x2="129.02" y2="520.98" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="508.02" x2="132.98" y2="521.88" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="513.24" x2="134.96" y2="511.44" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="517.56" x2="134.96" y2="515.76" stroke="#111" stroke-width="3.06"/>
+
+<line x1="159.00" y1="510.00" x2="159.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="510.00" x2="334.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="510.00" x2="509.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="510.00" x2="684.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="510.00" x2="859.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1029.00" y1="510.00" x2="1029.00" y2="546.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="510.00" x2="1034.00" y2="546.00" stroke="#111" stroke-width="2.60"/>
+<line x1="161.16" y1="508.92" x2="161.16" y2="520.44" stroke="#111" stroke-width="1.53"/>
+<line x1="164.94" y1="508.56" x2="164.94" y2="520.08" stroke="#111" stroke-width="1.53"/>
+<line x1="161.16" y1="513.42" x2="164.94" y2="513.42" stroke="#111" stroke-width="2.88"/>
+<line x1="161.16" y1="516.66" x2="164.94" y2="516.66" stroke="#111" stroke-width="2.88"/>
+
+<line x1="511.07" y1="534.12" x2="511.07" y2="547.98" stroke="#111" stroke-width="1.44"/>
+<line x1="515.03" y1="535.02" x2="515.03" y2="548.88" stroke="#111" stroke-width="1.44"/>
+<line x1="509.09" y1="540.24" x2="517.01" y2="538.44" stroke="#111" stroke-width="3.06"/>
+<line x1="509.09" y1="544.56" x2="517.01" y2="542.76" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="514.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 514.50)"/>
+<circle cx="186.45" cy="510.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="519.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 352.00 519.00)"/>
+<circle cx="361.45" cy="519.00" r="1.53" fill="#111"/>
+<ellipse cx="527.00" cy="541.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 541.50)"/>
+<circle cx="536.45" cy="537.00" r="1.53" fill="#111"/>
+<ellipse cx="702.00" cy="537.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 702.00 537.00)"/>
+<circle cx="711.45" cy="537.00" r="1.53" fill="#111"/>
+<ellipse cx="771.50" cy="514.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 771.50 514.50)"/>
+<circle cx="780.95" cy="510.00" r="1.53" fill="#111"/>
+<ellipse cx="877.00" cy="505.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 877.00 505.50)"/>
+<ellipse cx="884.38" cy="510.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 884.38 510.00)"/>
+<ellipse cx="908.72" cy="505.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 908.72 505.50)"/>
+<ellipse cx="916.10" cy="510.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 916.10 510.00)"/>
+<ellipse cx="940.44" cy="510.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 940.44 510.00)"/>
+<ellipse cx="947.82" cy="514.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 947.82 514.50)"/>
+<text x="892.86" y="532.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="924.58" y="532.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="956.30" y="532.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄽</text>
+<circle cx="963.05" cy="527.10" r="1.53" fill="#111"/>
+<text x="1008.69" y="532.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<line x1="182.40" y1="514.50" x2="182.40" y2="483.00" stroke="#111" stroke-width="1.25"/>
+<line x1="357.40" y1="519.00" x2="357.40" y2="487.50" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="541.50" x2="521.60" y2="573.00" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="537.00" x2="696.60" y2="568.50" stroke="#111" stroke-width="1.25"/>
+<line x1="776.90" y1="514.50" x2="776.90" y2="483.00" stroke="#111" stroke-width="1.25"/>
+<line x1="882.40" y1="505.50" x2="882.40" y2="474.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 882.40 474.00 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 882.40 467.52 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="914.12" y1="505.50" x2="914.12" y2="474.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 914.12 474.00 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 914.12 467.52 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="945.84" y1="510.00" x2="945.84" y2="478.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 945.84 478.50 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 945.84 472.02 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="96.00" y1="584.00" x2="1040.00" y2="584.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="593.00" x2="1040.00" y2="593.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="602.00" x2="1040.00" y2="602.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="611.00" x2="1040.00" y2="611.00" stroke="#111" stroke-width="0.90"/>
+<line x1="96.00" y1="620.00" x2="1040.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<text x="99.00" y="620.00" font-family="Noto Music" font-size="36.00" text-anchor="start" fill="#111">𝄢</text>
+<text x="74.00" y="608.30" font-family="Noto Serif, serif" font-size="10.50" font-style="italic" font-weight="normal" text-anchor="end" fill="#111">Violoncello</text>
+<line x1="129.02" y1="585.62" x2="129.02" y2="599.48" stroke="#111" stroke-width="1.44"/>
+<line x1="132.98" y1="586.52" x2="132.98" y2="600.38" stroke="#111" stroke-width="1.44"/>
+<line x1="127.04" y1="591.74" x2="134.96" y2="589.94" stroke="#111" stroke-width="3.06"/>
+<line x1="127.04" y1="596.06" x2="134.96" y2="594.26" stroke="#111" stroke-width="3.06"/>
+
+<line x1="159.00" y1="584.00" x2="159.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<line x1="334.00" y1="584.00" x2="334.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<line x1="509.00" y1="584.00" x2="509.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<line x1="684.00" y1="584.00" x2="684.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<line x1="859.00" y1="584.00" x2="859.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1029.00" y1="584.00" x2="1029.00" y2="620.00" stroke="#111" stroke-width="0.90"/>
+<line x1="1034.00" y1="584.00" x2="1034.00" y2="620.00" stroke="#111" stroke-width="2.60"/>
+<line x1="161.16" y1="587.42" x2="161.16" y2="598.94" stroke="#111" stroke-width="1.53"/>
+<line x1="164.94" y1="587.06" x2="164.94" y2="598.58" stroke="#111" stroke-width="1.53"/>
+<line x1="161.16" y1="591.92" x2="164.94" y2="591.92" stroke="#111" stroke-width="2.88"/>
+<line x1="161.16" y1="595.16" x2="164.94" y2="595.16" stroke="#111" stroke-width="2.88"/>
+
+<line x1="511.07" y1="612.62" x2="511.07" y2="626.48" stroke="#111" stroke-width="1.44"/>
+<line x1="515.03" y1="613.52" x2="515.03" y2="627.38" stroke="#111" stroke-width="1.44"/>
+<line x1="509.09" y1="618.74" x2="517.01" y2="616.94" stroke="#111" stroke-width="3.06"/>
+<line x1="509.09" y1="623.06" x2="517.01" y2="621.26" stroke="#111" stroke-width="3.06"/>
+
+<ellipse cx="177.00" cy="593.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 177.00 593.00)"/>
+<circle cx="186.45" cy="593.00" r="1.53" fill="#111"/>
+<ellipse cx="352.00" cy="597.50" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 352.00 597.50)"/>
+<circle cx="361.45" cy="593.00" r="1.53" fill="#111"/>
+<ellipse cx="527.00" cy="620.00" rx="6.30" ry="4.14" fill="none" stroke="#111" stroke-width="2.2" transform="rotate(-20 527.00 620.00)"/>
+<circle cx="536.45" cy="620.00" r="1.53" fill="#111"/>
+<ellipse cx="702.00" cy="615.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 702.00 615.50)"/>
+<circle cx="711.45" cy="611.00" r="1.53" fill="#111"/>
+<ellipse cx="771.50" cy="593.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 771.50 593.00)"/>
+<circle cx="780.95" cy="593.00" r="1.53" fill="#111"/>
+<ellipse cx="877.00" cy="584.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 877.00 584.00)"/>
+<ellipse cx="884.38" cy="588.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 884.38 588.50)"/>
+<ellipse cx="908.72" cy="584.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 908.72 584.00)"/>
+<ellipse cx="916.10" cy="588.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 916.10 588.50)"/>
+<ellipse cx="940.44" cy="588.50" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 940.44 588.50)"/>
+<ellipse cx="947.82" cy="593.00" rx="5.76" ry="4.05" fill="#111" transform="rotate(-20 947.82 593.00)"/>
+<text x="892.86" y="606.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="924.58" y="606.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<text x="956.30" y="606.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄽</text>
+<circle cx="963.05" cy="601.10" r="1.53" fill="#111"/>
+<text x="1008.69" y="606.95" font-family="Noto Music" font-size="34.20" text-anchor="start" fill="#111">𝄿</text>
+<line x1="182.40" y1="593.00" x2="182.40" y2="561.50" stroke="#111" stroke-width="1.25"/>
+<line x1="357.40" y1="597.50" x2="357.40" y2="566.00" stroke="#111" stroke-width="1.25"/>
+<line x1="521.60" y1="620.00" x2="521.60" y2="651.50" stroke="#111" stroke-width="1.25"/>
+<line x1="696.60" y1="615.50" x2="696.60" y2="647.00" stroke="#111" stroke-width="1.25"/>
+<line x1="776.90" y1="593.00" x2="776.90" y2="561.50" stroke="#111" stroke-width="1.25"/>
+<line x1="882.40" y1="584.00" x2="882.40" y2="552.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 882.40 552.50 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 882.40 546.02 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="914.12" y1="584.00" x2="914.12" y2="552.50" stroke="#111" stroke-width="1.25"/>
+<path d="M 914.12 552.50 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 914.12 546.02 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<line x1="945.84" y1="588.50" x2="945.84" y2="557.00" stroke="#111" stroke-width="1.25"/>
+<path d="M 945.84 557.00 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 945.84 550.52 q 7.65 1.62 0 6.48 q -1.80 4.95 0 -6.48 Z" fill="#111"/>
+<path d="M 316.0 352.0 L 316.0 347.0 L 177.0 347.0 L 177.0 352.0" fill="none" stroke="#b3261e" stroke-width="1.4"/>
+<rect x="340.0" y="331.0" width="91.8" height="14" fill="#fff" fill-opacity="0.82"/>
+<text x="342.00" y="342.00" font-family="Noto Serif, serif" font-size="12.50" font-style="italic" font-weight="normal" text-anchor="start" fill="#b3261e">S1 in octaves</text>
 </svg>
