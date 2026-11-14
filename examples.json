@@ -1,0 +1,114 @@
+[
+ {
+  "id": "01_subject",
+  "title": "The subject, its countersubject, and the answer",
+  "caption": "The first fugue opens with the subject in the viola <em>under</em> the dotted countersubject, which the first violin has been playing since the downbeat. S1 moves on beats 2 and 4, S2 on beats 1 and 3: two complete phrases, metrically out of phase, in invertible counterpoint. S2 is one line, not two: it leaps a compound interval on every offbeat, so on the page it reads as a pair of parallel strands. At m. 35 the cello answers in green &mdash; the same phrase a fifth lower, semitone for semitone, with no tonal adjustment.",
+  "bars": [
+   31,
+   38
+  ],
+  "bpm": 80,
+  "seconds": 27.9,
+  "notes": 126,
+  "w": 892.0,
+  "h": 626.0
+ },
+ {
+  "id": "02_unison",
+  "title": "Overtura, mm. 1\u201310: the subject in octaves",
+  "caption": "No harmony, no counterpoint: the nine notes alone, each one held under a fermata, the whole quartet in octaves. The chromatic wedge is exposed before a bar of fugue is heard.",
+  "bars": [
+   1,
+   10
+  ],
+  "bpm": 52,
+  "seconds": 39.0,
+  "notes": 75,
+  "w": 1058.0,
+  "h": 626.0
+ },
+ {
+  "id": "03_syncop",
+  "title": "Overtura, mm. 26\u201330: the syncopated version",
+  "caption": "First violin alone, <em>pp</em>, <em>sempre pp</em>. The subject now sits on the weak beats, written as tied eighths (Albrechtsberger\u2019s <em>Unterbrechung</em>). This is the form in which the fugue will take it up.",
+  "bars": [
+   26,
+   30
+  ],
+  "bpm": 72,
+  "seconds": 20.9,
+  "notes": 24,
+  "w": 1192.0,
+  "h": 336.0
+ },
+ {
+  "id": "05_expo_b",
+  "title": "First fugue, mm. 39\u201346: violin II, then violin I",
+  "caption": "Violin II takes the subject an octave up, violin I the answer (with a chromatic C as a lead-in). Four entries, four bars apart, alternating between B flat and F: the exposition closes where it began.",
+  "bars": [
+   39,
+   46
+  ],
+  "bpm": 100,
+  "seconds": 22.5,
+  "notes": 204,
+  "w": 892.0,
+  "h": 626.0
+ },
+ {
+  "id": "06_meno",
+  "title": "Meno mosso e moderato, mm. 159\u2013166",
+  "caption": "The lyric stance: G flat major, <em>pp</em>, flowing sixteenths in the first violin against a descending line in the lower voices. Kerman hears \"an almost blinding innocence\" here. The same subject, now sung rather than argued.",
+  "bars": [
+   159,
+   166
+  ],
+  "bpm": 58,
+  "seconds": 18.5,
+  "notes": 143,
+  "w": 928.0,
+  "h": 626.0
+ },
+ {
+  "id": "07_allegro",
+  "title": "Allegro molto e con brio, mm. 233\u2013240",
+  "caption": "The dance stance: 6/8, <em>ff</em>, gigue-like, the subject hammered out in the upper voices over a stamping bass. This is the scherzo of the piece \u2014 and the passage in which the motif is dismembered rather than affirmed.",
+  "bars": [
+   233,
+   240
+  ],
+  "bpm": 152,
+  "seconds": 11.2,
+  "notes": 109,
+  "w": 910.0,
+  "h": 626.0
+ },
+ {
+  "id": "08_augmented",
+  "title": "Final fugue, mm. 273\u2013280: the subject augmented",
+  "caption": "The cello states the subject one note to the bar in A flat, while the upper voices answer with its diminished form. The learned style returns, and with it the subject\u2019s pride of place.",
+  "bars": [
+   273,
+   280
+  ],
+  "bpm": 72,
+  "seconds": 28.0,
+  "notes": 47,
+  "w": 910.0,
+  "h": 626.0
+ },
+ {
+  "id": "09_diminution",
+  "title": "First fugue, mm. 139\u2013146: the subject at double speed",
+  "caption": "Third variation: the viola takes the subject at double speed, the first violin the dotted countersubject in triplets, its leaps stretched beyond two octaves. The section does not resolve: it breaks off and slides to G flat.",
+  "bars": [
+   139,
+   146
+  ],
+  "bpm": 112,
+  "seconds": 20.2,
+  "notes": 286,
+  "w": 892.0,
+  "h": 626.0
+ }
+]
